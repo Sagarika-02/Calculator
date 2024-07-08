@@ -29,7 +29,7 @@ calculator/
 
 ## Usage
 
-**Live Demo**: Access the live website [https://resplendent-froyo-7f13bd.netlify.app/].
+**[Visit the Calculator Live](https://resplendent-froyo-7f13bd.netlify.app/)
 
 
 
