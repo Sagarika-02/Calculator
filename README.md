@@ -8,7 +8,7 @@ This project is a simple calculator application built using HTML, CSS, and JavaS
 
 ## Features
 
-- **Basic Arithmetic Operations**: Supports addition, subtraction, multiplication, and division.
+- **Basic Arithmetic Operations**: Supports addition, subtraction, multiplication, modulo operation and division.
 - **Keyboard Support**: Allows users to input numbers and operators using both keyboard and mouse.
 - **Responsive Design**: Ensures usability across various devices and screen sizes.
 - **Clear Function**: Clears the input and resets the calculator to start a new calculation.
@@ -29,7 +29,7 @@ calculator/
 
 ## Usage
 
-**[Visit the Calculator Live](https://resplendent-froyo-7f13bd.netlify.app/)
+- **[Visit the Calculator Live](https://resplendent-froyo-7f13bd.netlify.app/)
 
 
 
